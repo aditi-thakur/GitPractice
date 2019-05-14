@@ -1,1 +1,2 @@
-# TestRepo
+# GitPractice Hello World
+This is a test repository
